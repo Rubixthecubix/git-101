@@ -2,6 +2,10 @@ body{
  font-size:12px;
 }
 
+h1{
+	font-weight:lighter;
+}
+
 #container{
 	display:flex;
 	align-items:center;
